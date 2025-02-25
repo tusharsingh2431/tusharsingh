@@ -1,0 +1,13 @@
+body{
+    background-image: url(299799830_479420447524491_6841959140340918501_n.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100;
+    width: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    scroll-snap-align: start;
+  
+}

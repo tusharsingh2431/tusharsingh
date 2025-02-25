@@ -1,0 +1,23 @@
+
+.scroll{
+   
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    scroll-snap-align: start;
+  
+}
+.scroll:nth-child(1){
+    background-image: url(Screenshot\ 2025-02-26\ 000835.png);
+   
+   
+
+}
+.scroll:nth-child(2){
+    background-image: url(vecteezy_ai-generated-couple-sitting-at-table-and-looking-at-new-york_35973233.jpg);
+}
